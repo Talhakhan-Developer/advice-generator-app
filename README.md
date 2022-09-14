@@ -42,7 +42,7 @@ Your users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://talhakhan-developer.github.io/advice-generator-app/)
+- Live Site URL: [(https://talhakhan-developer.github.io/advice-generator-app/](https://talhakhan-developer.github.io/advice-generator-app/)
 
 ### Built with
 
