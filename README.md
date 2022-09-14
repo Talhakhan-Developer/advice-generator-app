@@ -46,7 +46,7 @@ Your users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://talhakhan-developer.github.io/advice-generator-app/](https://your-live-site-url.com)
 
 ### Built with
 
@@ -61,6 +61,6 @@ Your users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- github - [Talha Khan](https://github.com/Talhakhan-Developer)
+- Frontend Mentor - [@Talhakhan-Developer](https://www.frontendmentor.io/profile/Talhakhan-Developer)
+- Twitter - [@i_am_Talhakhan](https://twitter.com/i_am_Talhakhan)
