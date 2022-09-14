@@ -26,10 +26,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ## The challenge
 
@@ -46,7 +42,7 @@ Your users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://talhakhan-developer.github.io/advice-generator-app/)
 
 ### Built with
 
@@ -56,11 +52,9 @@ Your users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- github - [Talha Khan](https://github.com/Talhakhan-Developer)
+- Frontend Mentor - [@Talhakhan-Developer](https://www.frontendmentor.io/profile/Talhakhan-Developer)
+- Twitter - [@i_am_Talhakhan](https://twitter.com/i_am_Talhakhan)
