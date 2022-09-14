@@ -41,7 +41,7 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/advice-generator-app-in-react-js-pSq1WpCl9J](https://your-solution-url.com)
 - Live Site URL: https://talhakhan-developer.github.io/advice-generator-app/](https://your-live-site-url.com)
 
 ### Built with
